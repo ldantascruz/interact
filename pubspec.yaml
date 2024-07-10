@@ -4,13 +4,13 @@ version: 2.2.0
 repository: https://github.com/frencojobs/interact
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  dart_console: ^1.2.0
-  meta: ^1.8.0
-  tint: ^2.0.0
+  dart_console: ^4.1.0
+  meta: ^1.15.0
+  tint: ^2.0.1
 
 dev_dependencies:
-  lint: ^2.0.1
-  test: ^1.22.2
+  lint: ^2.3.0
+  test: ^1.25.8
